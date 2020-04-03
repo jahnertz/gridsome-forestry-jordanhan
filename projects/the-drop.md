@@ -11,8 +11,5 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-## The Drop
-
-### Art Direction & Design
 
 ![](/uploads/BMK_TheDrop_Poster_01_Dribbble_190103_v2-01.jpg)

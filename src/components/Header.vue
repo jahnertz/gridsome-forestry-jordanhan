@@ -55,7 +55,7 @@ export default {
 }
 .site-name {
     font-size: 0.9rem;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 0.05em;
     text-decoration: none;
     text-transform: uppercase;   

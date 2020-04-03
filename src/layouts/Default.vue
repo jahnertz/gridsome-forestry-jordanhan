@@ -20,6 +20,8 @@ export default {
 
 
 <style>
+@import url("https://use.typekit.net/oyw3dmn.css");
+
 * {
   box-sizing: border-box;
 }
@@ -47,6 +49,8 @@ body.dark {
 
 h1 {
   letter-spacing: -0.01em;
+  font-family:  poynter-oldstyle-display-con, serif;
+	font-weight: 400;
 }
 
 .layout {

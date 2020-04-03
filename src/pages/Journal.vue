@@ -4,7 +4,7 @@
     <div class="container">
       <div class="journal-hero">
         <h1 class="journal-header">
-          a wise person once said...
+          News
         </h1>
       </div>
     </div>
@@ -82,6 +82,8 @@ export default {
 .journal-title {
   font-size: 2rem;
   color: var(--color-contrast);
+  font-family: poynter-oldstyle-display-con, serif; 
+  font-weight: 400;
 }
 .journal-excerpt {
   color: var(--color-contrast-1);
